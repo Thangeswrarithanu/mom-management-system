@@ -1,0 +1,16 @@
+.loginForm {
+    width: 50%;
+    margin: 3rem auto;
+    padding: 2rem;
+    box-shadow: 1px 2px 16px 2px #cccccc85;
+}
+
+.loginForm .title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.loginForm .form-group {
+    margin: 1rem 0;
+}
